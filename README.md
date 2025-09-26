@@ -1,6 +1,6 @@
 # 🚗 Prix Vehicle Shop
 
-A modular vehicle shop for **Prix Framework**, built on ESX and ox_lib.  
+A modular vehicle shop for **Prix Framework**.
 Players can browse, preview, and purchase vehicles that are automatically stored in their garage.
 
 ---
